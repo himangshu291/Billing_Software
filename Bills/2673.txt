@@ -1,0 +1,17 @@
+		Welcome to DAS Super Market
+ Bill Number:	2673
+ Customer Name:	hguih
+ Mobile Number:	26
+ Customer Email:	nhkihnj
+=====================================================
+ Products				Qty		Price
+=====================================================
+ Potato 1kg				 1		25
+ Potato 1kg				 1		25
+ Potato 1kg				 1		25
+
+=====================================================
+ Sub Amount:			Rs.75.00
+ Tax Amount:			Rs.0.50
+ Total Amount:			Rs.75.50
+=====================================================

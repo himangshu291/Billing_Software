@@ -1,0 +1,18 @@
+		Welcome to DAS Super Market
+ Bill Number:	9087
+ Customer Name:	bjk
+ Mobile Number:	452
+ Customer Email:	nkjnb
+=====================================================
+ Products				Qty		Price
+=====================================================
+ Lays				 1		10
+ Lays				 1		10
+ Lays				 1		10
+ Lays				 1		10
+
+=====================================================
+ Sub Amount:			Rs.40.00
+ Tax Amount:			Rs.0.30
+ Total Amount:			Rs.40.30
+=====================================================

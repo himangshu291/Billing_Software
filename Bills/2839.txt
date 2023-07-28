@@ -1,0 +1,18 @@
+		Welcome to DAS Super Market
+ Bill Number:	2839
+ Customer Name:	VG
+ Mobile Number:	156
+ Customer Email:	DFYUF
+=====================================================
+ Products				Qty		Price
+=====================================================
+ Marie 100g				 1		10
+ Marie 100g				 1		10
+ Marie 100g				 1		10
+ Marie 100g				 1		10
+
+=====================================================
+ Sub Amount:			Rs.40.00
+ Tax Amount:			Rs.0.30
+ Total Amount:			Rs.40.30
+=====================================================

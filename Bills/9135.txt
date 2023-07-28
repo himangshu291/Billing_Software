@@ -1,0 +1,20 @@
+		Welcome to DAS Super Market
+ Bill Number:	9135
+ Customer Name:	Himangshu Chandra Das
+ Mobile Number:	9749470744
+ Customer Email:	abc@gmail.com
+===========================================================
+ Products				Qty		Price
+===========================================================
+ Good Day 100g				 1		10
+ Lays				 1		10
+ Lays				 1		10
+ Lays				 1		10
+ Lays				 1		10
+ Lays				 1		10
+
+=====================================================
+ Sub Amount:			Rs.60.00
+ Tax Amount:			Rs.0.50
+ Total Amount:			Rs.60.50
+=====================================================

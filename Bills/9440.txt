@@ -1,0 +1,18 @@
+		Welcome to DAS Super Market
+ Bill Number:	9440
+ Customer Name:	ZMm
+ Mobile Number:	ZKO
+ Customer Email:	mLM
+=====================================================
+ Products				Qty		Price
+=====================================================
+ Sunrise Turmeric Powder 100 g				 1		22
+ Sunrise Turmeric Powder 100 g				 1		22
+ Sunrise Turmeric Powder 100 g				 1		22
+ Sunrise Turmeric Powder 100 g				 1		22
+
+=====================================================
+ Sub Amount:			Rs.88.00
+ Tax Amount:			Rs.0.66
+ Total Amount:			Rs.88.66
+=====================================================
